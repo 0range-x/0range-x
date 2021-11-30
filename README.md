@@ -1,7 +1,7 @@
 ## 🍊 0r@nge 🍊
 - Red Team vegetable bird
 - Virus && Trojan lovers
-- Try to be a developer 
+- Try to be a coder 
 - Intern at Tencent Security Team
 - Second year of undergraduate 
 

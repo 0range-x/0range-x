@@ -1,4 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0range-x&show_icons=true&theme=radical)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=0range-x&show_icons=true&hide=prs">
+
+
+
 ## 🍊 0r@nge 🍊
 - 红队菜鸡
 - 免杀爱好者

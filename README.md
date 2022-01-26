@@ -1,8 +1,8 @@
 ## 🍊 0r@nge 🍊
-- Red Team vegetable bird
-- Virus && Trojan lovers
-- Try to be a coder 
-- Second year of undergraduate 
+- 红队菜鸡
+- 免杀爱好者
+- 努力成为一名coder 
+- 普通本科大二在读 
 
 
 

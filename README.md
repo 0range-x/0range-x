@@ -5,7 +5,7 @@
 ## 🍊 0r@nge 🍊
 - Keen Lab.[Web Security Group]
 - 努力成为一名coder 
-- 普通本科大二在读 
+- 普通本科大三在读 
 
 ## Blog
 

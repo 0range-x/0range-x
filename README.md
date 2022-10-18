@@ -3,7 +3,7 @@
 
 
 ## 🍊 0r@nge 🍊
-- Keen Lab.[Web Security Group]
+- Keen Lab
 - 努力成为一名coder 
 - 普通本科大三在读 
 
